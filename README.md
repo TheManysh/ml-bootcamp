@@ -1,1 +1,1 @@
-# ml-bootcamp
+# Machine learning bootcamp
